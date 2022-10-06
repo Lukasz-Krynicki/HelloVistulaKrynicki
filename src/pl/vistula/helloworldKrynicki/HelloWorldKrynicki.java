@@ -6,5 +6,6 @@ public class HelloWorldKrynicki {
         System.out.println("Hello Vistula Krynicki");
         System.out.println("TEST TEST TEST");
         System.out.println("WOWWWWWWWWWW");
+        System.out.println("WOWWWWWWWWWW");
     }
 }
