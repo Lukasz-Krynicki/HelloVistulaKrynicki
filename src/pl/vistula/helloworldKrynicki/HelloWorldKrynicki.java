@@ -8,5 +8,6 @@ public class HelloWorldKrynicki {
         System.out.println("WOWWWWWWWWWW");
         System.out.println("WOWWWWWWWWWW");
         System.out.println("TEST COMMIT3142");
+        System.out.println("TEST COMMIT3142");
     }
 }
